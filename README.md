@@ -1,4 +1,4 @@
-<h1>Panopticon Simulator</h1>
+<h1>Panopticon Simulator (spring 2021)</h1>
 <p>This video project was done to analyze the essentials of an assemblage (specifically Foucault's Panopticon) through the language of code. Given code's lack of ambiguity, along with the time-intensive nature of coding, it brought an important constraint to the project: indentifying and focusing on the actants that were essential to making the simulator identifiable as the Panopticon.
 
 <h2>Audio Credits</h2>
